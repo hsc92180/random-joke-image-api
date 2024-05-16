@@ -7,7 +7,7 @@ This API provides random jokes and images. It includes endpoints to fetch random
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/hsc92180/random-joke-image-api.git
     cd random-jokes-images-api
     ```
 
@@ -18,7 +18,7 @@ This API provides random jokes and images. It includes endpoints to fetch random
 
 3. Start the server:
     ```bash
-    node index.js
+    npm start
     ```
 
 ## Endpoints
